@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
         Spinner colorSinner = findViewById(R.id.spinnerForColor);
         Utils.changeToTheme(this, colorSinner.getSelectedItemPosition());
 
-
         Configuration config = new Configuration();
         config.setLocale(locale);
         getResources().updateConfiguration(config, getBaseContext().getResources().getDisplayMetrics());
