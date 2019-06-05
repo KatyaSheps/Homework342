@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Домашная работа.3.4.2</string>
+    <string name="textView">Лондон — столица Великобритании, ее политический, экономический и торговый центр</string>
+    <string name="choose_language">Dыберите язык</string>
+    <string-array name="languages">
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+    <string name="choose_margin">Dыберите отступ</string>
+    <string-array name="colors">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+</resources>

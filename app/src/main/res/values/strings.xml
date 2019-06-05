@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">Homework.3.4.2</string>
+<string name="textView">London is the capital of Great Britain, its political, economic, and commercial centre</string>
+<string name="choose_language">Choose the language</string>
+<string-array name="languages">
+    <item>English</item>
+    <item>Russian</item>
+</string-array>
+<string name="choose_margin">Choose the margin</string>
+<string-array name="colors">
+    <item>Big</item>
+    <item>Middle</item>
+    <item>Small</item>
+</string-array>
+</resources>
+
